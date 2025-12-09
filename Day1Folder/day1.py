@@ -47,8 +47,8 @@ print("Nothing")
 def selfIntro():
     print ("I am Catherine Leow")
 print ("I am 10 yrs old")
-print("Henry Park Primary School")
-print("Nothing")
+print("I attend Henry Park Primary School")
+print("If Nothing")
 
 
 
