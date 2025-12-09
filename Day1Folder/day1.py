@@ -18,7 +18,7 @@
 # Task 3:
 animal1 = "Tim Cheese"
 animal2 = "Cocofantoelephanto"
-animal3 = "burburinioctopusini"
+animal3 = "Burburinioctopusini"
 print(animal1)
 print(animal2)
 print(animal3)
