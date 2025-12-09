@@ -37,7 +37,7 @@
 name="Catherine"
 food="food"
 print ("My name is" + name)
-print ("I like to eat")
+print ("I like to eat" + food)
 
 
 
