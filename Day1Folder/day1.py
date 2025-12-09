@@ -45,8 +45,8 @@ print("Nothing")
 ########################################################################
 # Task 6:
 def selfIntro():
-    print ("I am Catherine Leow")
-    print ("I am 10 yrs old")
+    print ("I am Catherine Leow.")
+    print ("I am 10 yrs old.")
     print("I attend Henry Park Primary Schooh.")
     print("If I had 2000 dollars, I would do nothing.")
 
