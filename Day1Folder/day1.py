@@ -36,7 +36,7 @@
 # Task 5:
 name="Catherine"
 food="food"
-
+print
 
 
 
