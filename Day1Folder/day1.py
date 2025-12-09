@@ -19,7 +19,7 @@
 animal1 = "Tim Cheese"
 animal2 = "Cocofantoelephanto"
 animal3 = "burburinioctopusini"
-print
+print("animal1")
 
 
 ########################################################################
