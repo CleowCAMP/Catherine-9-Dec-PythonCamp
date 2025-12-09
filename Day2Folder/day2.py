@@ -7,7 +7,7 @@ print("hello from day2")
 print("Loop start")
 for I in range(100):
     print("I will not sling my friend at mud again.")
-
+print("")
 
 ########################################################################
 # Task 2:
