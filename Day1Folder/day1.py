@@ -50,8 +50,7 @@ def selfIntro():
     print("I attend Henry Park Primary Schooh.")
     print("If I had 2000 dollars, I would do nothing.")
 
-selfIntro()
-   
+selfIntro()  
 
 
 
@@ -61,6 +60,7 @@ selfIntro()
 
 ########################################################################
 # Task 7:
+
 
 
 
