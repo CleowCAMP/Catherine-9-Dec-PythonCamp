@@ -49,8 +49,7 @@ def selfIntro():
 print ("I am 10 yrs old")
 print("I attend Henry Park Primary School")
 print("If I had 2000 dollars I would do nothing")
-
-
+   
 
 
 
