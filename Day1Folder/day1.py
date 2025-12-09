@@ -37,6 +37,7 @@
 name="Catherine"
 food="food"
 print ("My name is" + name)
+print ("")
 
 
 
