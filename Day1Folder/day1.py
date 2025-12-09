@@ -8,10 +8,10 @@
 
 ########################################################################
 # Task 2:
-# print ("Catherine Leow")
-# print ("I am 10 yrs old")
-# print("Henry Park Primary School")
-# print("Nothing")
+print ("Catherine Leow")
+print ("I am 10 yrs old")
+print("Henry Park Primary School")
+print("Nothing")
 
 
 ########################################################################
@@ -44,6 +44,15 @@
 
 ########################################################################
 # Task 6:
+def selfIntro():
+    print ("Catherine Leow")
+print ("I am 10 yrs old")
+print("Henry Park Primary School")
+print("Nothing")
+
+
+
+
 
 
 
