@@ -18,7 +18,7 @@ print("Nothing")
 # Task 3:
 animal1 = "Tim Cheese"
 animal2 = "Cocofantoelephanto"
-animal3 = ""
+animal3 = "burburinioctopusini"
 
 
 ########################################################################
