@@ -50,7 +50,7 @@ def selfIntro():
     print("I attend Henry Park Primary School")
     print("If I had 2000 dollars I would do nothing")
 
-
+self
    
 
 
