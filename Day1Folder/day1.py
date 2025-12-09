@@ -1,6 +1,6 @@
 # Write all your codes for Day 1 here.
 # COMMENT out the previous task before going on to the next task
-prin("")
+prin("676767676767676767676767676767676767676767676767676767676767676767676767667")
 
 ########################################################################
 # Task 1:
