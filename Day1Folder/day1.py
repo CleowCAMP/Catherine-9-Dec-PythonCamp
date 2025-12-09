@@ -1,6 +1,6 @@
 # Write all your codes for Day 1 here.
 # COMMENT out the previous task before going on to the next task
-print("")
+print("67")
 
 ########################################################################
 # Task 1:
