@@ -5,7 +5,7 @@ print("hello from day2")
 ########################################################################
 # Task 1:
 for I in range(100):
-print ("I will not sling my friend at mud again")
+    print("I will not sling my friend at mud again.")
 
 
 ########################################################################
