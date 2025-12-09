@@ -34,10 +34,6 @@
 
 ########################################################################
 # Task 5:
-name="Catherine"
-food="food"
-print ("My name is" + name)
-print ("I like to eat" + food)
 
 
 
