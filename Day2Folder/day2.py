@@ -6,7 +6,7 @@ print("hello from day2")
 # Task 1:
 print("Loop start")
 for I in range(100):
-    print("I will say 67v.")
+    print("I will say 67 forever.")
 print("Loop End")
 
 ########################################################################
