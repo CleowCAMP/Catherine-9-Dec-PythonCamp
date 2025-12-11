@@ -33,7 +33,11 @@ print(num1 + " + "+ num2 + " = " +str(answer))
 # Task 5:
 personA = ("What is your age, personA:")
 personB = ("What is your age, personB:")
-
+if int (personA) > int(personB):
+    print("personA is older")
+else:
+    print("personB is older")
+ 
 
 
 ########################################################################
