@@ -15,8 +15,8 @@ print("hello from day3")
 # Task 2:
 num1 = input ("Enter number 1: ")
 num2 = input ("Enter number 2: ")
-answer = num1 + num2
-print(num1 + " + "+ num2 + " = ")
+answer = int(num1) + int(num2)
+print(num1 + " + "+ num2 + " = " +str )
 
 ########################################################################
 # Task 3:
