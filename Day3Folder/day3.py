@@ -13,10 +13,10 @@ print("hello from day3")
 
 ########################################################################
 # Task 2:
-num1 = input ("Enter number 1: ")
-num2 = input ("Enter number 2: ")
-answer = int(num1) + int(num2)
-print(num1 + " + "+ num2 + " = " +str(answer)) 
+# num1 = input ("Enter number 1: ")
+# num2 = input ("Enter number 2: ")
+# answer = int(num1) + int(num2)
+# print(num1 + " + "+ num2 + " = " +str(answer)) 
 
 ########################################################################
 # Task 3:
