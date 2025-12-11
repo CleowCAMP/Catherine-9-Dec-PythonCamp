@@ -4,7 +4,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 1: 
-myName-input()
+myName-input("What is your name")
 
 
 
