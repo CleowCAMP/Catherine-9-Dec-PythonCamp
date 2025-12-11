@@ -117,7 +117,7 @@ def DigDown():
         agent.move(DOWN, 1)
         agent.collect_all()
 
-player.on_chat("dig", DigDown)
+player.on_chat("dig", DigDown)happy
 
 
 ########################################################################
