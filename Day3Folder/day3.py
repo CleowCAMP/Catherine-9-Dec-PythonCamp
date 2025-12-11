@@ -32,7 +32,7 @@ print(num1 + " + "+ num2 + " = " +str(answer))
 ########################################################################
 # Task 5:
 personA = ("What is your age, personA:")
-personB = ("What is your a")
+personB = ("What is your age")
 
 
 
