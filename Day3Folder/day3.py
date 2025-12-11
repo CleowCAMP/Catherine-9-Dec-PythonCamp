@@ -4,16 +4,16 @@ print("hello from day3")
 
 ########################################################################
 # Task 1: 
-myTitle = input ("What is your title? ")
-myName = input("What is your name?")
-myCommand = input("What is your command? ")
-print(myTitle +" "+ myName + " commands you to " + myCommand)
+# myTitle = input ("What is your title? ")
+# myName = input("What is your name?")
+# myCommand = input("What is your command? ")
+# print(myTitle +" "+ myName + " commands you to " + myCommand)
 
 
 
 ########################################################################
 # Task 2:
-my
+
 
 ########################################################################
 # Task 3:
