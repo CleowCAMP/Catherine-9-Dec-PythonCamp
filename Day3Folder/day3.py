@@ -16,7 +16,7 @@ print("hello from day3")
 num1 = input ("Enter number 1 ")
 num2 = input ("Enter number 2 ")
 answer = num1 + num2
-print(num1 + " + "+ num2 + " ")
+print(num1 + " + "+ num2 + "= ")
 
 ########################################################################
 # Task 3:
