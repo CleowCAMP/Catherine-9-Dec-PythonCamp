@@ -5,7 +5,8 @@ print("hello from day3")
 ########################################################################
 # Task 1: 
 myName = input("What is my name")
-myTitle = input("What  ")
+myTitle = input("What is my title")
+
 
 ########################################################################
 # Task 2:
