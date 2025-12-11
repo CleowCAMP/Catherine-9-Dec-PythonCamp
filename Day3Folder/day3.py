@@ -15,7 +15,7 @@ print("hello from day3")
 # Task 2:
 mynumber1 = input ("Enter number 1 ")
 mynumber2 = input ("Enter number 2 ")
-mynumber3 = input ("Enter number3 ")
+answer 
 print(num1 + " + "+ num2 + " ")
 
 ########################################################################
